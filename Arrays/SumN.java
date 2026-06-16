@@ -9,5 +9,6 @@ public static void main(String[]args){
          sum=arr[i]+sum;
     }
     System.out.println("Sum="+sum);
+    sc.close();
 }
 }
